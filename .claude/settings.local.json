@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(rtk npx *)"
+      "Bash(rtk npx *)",
+      "WebSearch"
     ]
   }
 }
